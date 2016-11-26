@@ -5,4 +5,5 @@ kombu==4.0.0
 mongoengine==0.10.6
 pymongo==3.3.1
 pytz==2016.7
+redis==2.10.5
 vine==1.1.3
