@@ -1,0 +1,2 @@
+class UndefinedUploadServiceException(Exception):
+    pass
